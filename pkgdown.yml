@@ -1,0 +1,11 @@
+pandoc: 2.3.1
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  introduction-to-ymlthis: introduction-to-ymlthis.html
+  yaml-fieldguide: yaml-fieldguide.html
+  yaml-overview: yaml-overview.html
+urls:
+  reference: https://ymlthis.r-lib.org/reference
+  article: https://ymlthis.r-lib.org/articles
+
